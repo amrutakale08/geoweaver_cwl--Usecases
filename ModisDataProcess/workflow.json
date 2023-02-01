@@ -1,0 +1,9 @@
+{
+  "id" : "aj2nhw03buv43a156wqh",
+  "name" : "",
+  "description" : "",
+  "owner" : "111111",
+  "confidential" : "FALSE",
+  "edges" : "[]",
+  "nodes" : "[{\"title\":\"Data Download\",\"id\":\"b4ot77-PJzav\",\"x\":269,\"y\":356.5},{\"title\":\"Data Process\",\"id\":\"8hm3d7-Ie7bz\",\"x\":563,\"y\":354.5},{\"title\":\"Extraction\",\"id\":\"2e4qdp-lrCWN\",\"x\":839,\"y\":363.5}]"
+}
