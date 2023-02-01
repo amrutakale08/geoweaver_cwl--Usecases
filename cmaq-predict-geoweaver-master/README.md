@@ -9,12 +9,9 @@ Once the workflows are described into CWL scripts they can be executed on variet
 
 To run the CWL file
 --------------------
-::
 
     cwl-runner workflow.cwl input.yml
 
-
-::
 
 The command is intended to provide the same outcomes as workflow files in Geoweaver by triggering all the CWL and YAML files' internal functions in the same order. The benefit of CWL offers a way to describe reusable and portable workflows. Researchers, students from any domain can easily share, exchange, edit, and reuse workflows by translating Geoweaver AI/ML workflows into CWL scripts using the geoweaver_cwl package. Another advantage of CWL is that applications written with CWL are  portable and can be used in a multitude of environments, such as local or cloud infrastructures.
 
