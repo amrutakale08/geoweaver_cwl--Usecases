@@ -1,4 +1,4 @@
-# CMAQ-predict-geoweaver
+# ModisData-PreProcess
 
 This use case demonstrates the data preprocessing steps for the Moderate Resolution Imaging Spectroradiometer (MODIS) satellite data. The GitHub repository contains the code folder, history folder, and workflow.json file. 
 
