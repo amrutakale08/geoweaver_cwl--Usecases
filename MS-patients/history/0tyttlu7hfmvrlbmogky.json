@@ -1,0 +1,21 @@
+[{
+  "history_id" : "LksqT6Cb5jgYEgLLlF",
+  "history_input" : "apgqxd-d6kHC;bgqxwl-qMYRc;k0z22w-z5Dj1;",
+  "history_output" : "za0xej44gh7;q1qpnfg35x8;s8dxb5jbfy8;",
+  "history_begin_time" : 1672014492152,
+  "history_end_time" : 1672014492808,
+  "history_notes" : null,
+  "history_process" : "0tyttlu7hfmvrlbmogky",
+  "host_id" : "100001;",
+  "indicator" : "Failed"
+},{
+  "history_id" : "LqOX4J145qPIeA1A28",
+  "history_input" : "apgqxd-d6kHC;bgqxwl-qMYRc;k0z22w-z5Dj1;",
+  "history_output" : "t28dc8y6kkh;gfrjq6a8qof;xtshnwsek21;",
+  "history_begin_time" : 1672014239092,
+  "history_end_time" : 1672014239385,
+  "history_notes" : null,
+  "history_process" : "0tyttlu7hfmvrlbmogky",
+  "host_id" : "100001;",
+  "indicator" : "Failed"
+}]

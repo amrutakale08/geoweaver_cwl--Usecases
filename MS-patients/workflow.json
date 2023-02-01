@@ -1,0 +1,9 @@
+{
+  "id" : "0tyttlu7hfmvrlbmogky",
+  "name" : "MS_Prediction_Workflow",
+  "description" : "Implementing ML models for predicting MS type based on historical medical data",
+  "owner" : "111111",
+  "confidential" : "FALSE",
+  "edges" : "[]",
+  "nodes" : "[{\"title\":\"featureSelection\",\"id\":\"apgqxd-d6kHC\",\"x\":279,\"y\":419.5,\"color\":\"\"},{\"title\":\"missingValueImputation\",\"id\":\"bgqxwl-qMYRc\",\"x\":617,\"y\":179.5,\"color\":\"\"},{\"title\":\"predictionModels\",\"id\":\"k0z22w-z5Dj1\",\"x\":945,\"y\":359.5,\"color\":\"\"}]"
+}
